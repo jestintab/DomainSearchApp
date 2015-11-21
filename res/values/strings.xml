@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hosting Kart</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="domain_name">Domain name</string>
+    <string name="search">Search</string>
+    <string name="whois">WHOIS</string>
+    <string name="www">www.</string>
+    <string name="domain">domain.com</string>
+    <string name="add_wishlist">Add to wishlist</string>
+    <string name="internet_msg">No Internet Connection</string>
+
+    <string-array name="tld">
+        <item>com</item>
+        <item>in</item>
+        <item>org</item>
+        <item>net</item>
+        <item>co.in</item>
+    </string-array>
+
+</resources>
